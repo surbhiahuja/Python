@@ -1,5 +1,5 @@
 from instabot import Bot
 bot = Bot()
-bot.login(username="seerat.pathak", password = "Pathak@14")
+bot.login(username="seerat.pathak", password = "yuiyiuy")
 # bot.follow("wscubetechindia")
 
